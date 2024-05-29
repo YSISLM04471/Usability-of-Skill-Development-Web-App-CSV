@@ -11,7 +11,7 @@ st.set_page_config(
 
 
 def main():
-    st.title("Usability Skill Development Web Application")
+    st.title("Usability Skill Development User Experience")
     
     # Load CSV file directly
     @st.cache_data
