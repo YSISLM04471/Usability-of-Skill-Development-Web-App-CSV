@@ -3,6 +3,13 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
+# Set page configuration
+st.set_page_config(
+    page_title="sdue",  # Title for the browser tab
+    page_icon="browser.png"
+)
+
+
 def main():
     st.title("Usability Skill Development Web Application")
     
