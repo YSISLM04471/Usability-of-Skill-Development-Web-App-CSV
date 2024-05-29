@@ -4,7 +4,7 @@ import plotly.express as px
 
 
 def main():
-    st.title("CSV File Viewer")
+    st.title("Usability Skill Development Web Application")
     
     # Load CSV file directly
     @st.cache_data
